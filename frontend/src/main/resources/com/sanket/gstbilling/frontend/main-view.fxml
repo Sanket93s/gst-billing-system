@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.geometry.Insets?>
+<?import javafx.fxml.FXMLLoader?>
+
+
+<VBox alignment="TOP_CENTER" prefHeight="700.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.sanket.gstbilling.frontend.controller.MainController">
+   <children>
+      <Label text="GST Billing System - Dashboard" textFill="#2c3e50">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+         <VBox.margin>
+            <Insets bottom="10.0" top="10.0" />
+         </VBox.margin>
+      </Label>
+      <TabPane fx:id="mainTabPane" prefHeight="650.0" prefWidth="980.0" tabClosingPolicy="UNAVAILABLE" VBox.vgrow="ALWAYS">
+         <tabs>
+            <Tab text="Customers">
+               <content>
+                  <fx:include source="customer-view.fxml" />
+               </content>
+            </Tab>
+            <Tab text="Products">
+               <content>
+                  <fx:include source="product-view.fxml" />
+               </content>
+            </Tab>
+            <Tab text="Invoices">
+               <content>
+                  <fx:include source="invoice-view.fxml" />
+               </content>
+            </Tab>
+            <Tab text="Reports">
+               <content>
+                  <!-- INCLUDE report-view.fxml here -->
+                  <fx:include source="report-view.fxml" />
+               </content>
+            </Tab>
+         </tabs>
+      </TabPane>
+   </children>
+</VBox>

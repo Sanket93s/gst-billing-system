@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ccb1e68-fcd3-48d8-af7e-ffce09716d09" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Invoice_123.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/java/com/sanket/gstbilling/frontend/GstFrontendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/java/com/sanket/gstbilling/frontend/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/java/com/sanket/gstbilling/frontend/controller/InvoiceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/java/com/sanket/gstbilling/frontend/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/java/com/sanket/gstbilling/frontend/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/java/com/sanket/gstbilling/frontend/controller/ReportController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/java/com/sanket/gstbilling/frontend/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/java/com/sanket/gstbilling/frontend/model/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/java/com/sanket/gstbilling/frontend/model/InvoiceItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/java/com/sanket/gstbilling/frontend/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/resources/com/sanket/gstbilling/frontend/customer-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/resources/com/sanket/gstbilling/frontend/invoice-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/resources/com/sanket/gstbilling/frontend/main-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/resources/com/sanket/gstbilling/frontend/product-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/resources/com/sanket/gstbilling/frontend/report-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main/resources/com/sanket/secondary.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gstbilling-backend/src/main/java/com/sanket/gstbilling_backend/config/JacksonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gstbilling-backend/src/main/java/com/sanket/gstbilling_backend/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gstbilling-backend/src/main/java/com/sanket/gstbilling_backend/controller/InvoiceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gstbilling-backend/src/main/java/com/sanket/gstbilling_backend/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gstbilling-backend/src/main/java/com/sanket/gstbilling_backend/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gstbilling-backend/src/main/java/com/sanket/gstbilling_backend/model/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gstbilling-backend/src/main/java/com/sanket/gstbilling_backend/model/InvoiceItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gstbilling-backend/src/main/java/com/sanket/gstbilling_backend/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gstbilling-backend/src/main/java/com/sanket/gstbilling_backend/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gstbilling-backend/src/main/java/com/sanket/gstbilling_backend/repository/InvoiceItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gstbilling-backend/src/main/java/com/sanket/gstbilling_backend/repository/InvoiceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gstbilling-backend/src/main/java/com/sanket/gstbilling_backend/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gstbilling-backend/src/main/java/com/sanket/gstbilling_backend/service/PdfGenerationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sanket/gstbillingsystem/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sanket/gstbillingsystem/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/sanket/gstbillingsystem/hello-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="305r2ksK5Yzc5hqAT8fagkn8EOv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GstFrontendApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GstbillingBackendApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gstbilling-backend [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gstbilling-backend [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gstbilling-frontend [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gstbilling-frontend [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Desktop/Kisan_saathii&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\GST Billing System\frontend\src\main\resources\com\sanket\gstbilling\frontend" />
+      <recent name="C:\Users\HP\IdeaProjects\GST Billing System\frontend\src\main\java\com\sanket\gstbilling\frontend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GstFrontendApplication">
+    <configuration name="GstFrontendApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sanket.gstbilling.frontend.GstFrontendApplication" />
+      <module name="gstbilling-frontend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sanket.gstbilling.frontend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GstbillingBackendApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sanket.gstbilling_backend.GstbillingBackendApplication" />
+      <module name="gstbilling-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sanket.gstbilling_backend.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GstFrontendApplication" />
+        <item itemvalue="Application.GstbillingBackendApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ccb1e68-fcd3-48d8-af7e-ffce09716d09" name="Changes" comment="" />
+      <created>1752928074239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752928074239</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
